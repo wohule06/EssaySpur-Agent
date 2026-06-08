@@ -131,3 +131,9 @@ final_essay = agent.run(task)
 
 ## 📄 许可证
 MIT License
+
+记得在主目录下配置好如下图的.env文件
+<img width="950" height="269" alt="image" src="https://github.com/user-attachments/assets/31fd3cfa-8be3-4da6-9ce3-7e2d882a5afb" />
+<img width="1753" height="516" alt="image" src="https://github.com/user-attachments/assets/848993c5-155b-486f-93d6-44186221a3af" />
+<img width="1750" height="418" alt="image" src="https://github.com/user-attachments/assets/934fa68d-8119-4ef2-9a78-d63749863b83" />
+
